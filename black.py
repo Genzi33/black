@@ -78,13 +78,7 @@ def logo():
 	os.system("clear")
 	time.sleep (0.1)
 	print
-	print
- 	print ('\033[1;32m           
-  	print ('\033[1;32m         
-	print ('\033[1;33m 
-	print ('\033[1;33m     
-	print ('\033[1;32m                
-	print ('\033[1;32m                     
+	print                   
 	print ('\033[1;33m     ____                    ____  ____  _____ __  __   
 	print ('\033[1;33m   / ___| ___ _ __  ___|  _   \|  _ \| ____||   \/   |
 	print ('\033[1;32m  |  |  _  / _ \  '_  \|_  / |_)   | |_) |  _|     |  |\/|  |           
